@@ -1,0 +1,16 @@
+title = "Olive Nut Spread"
+category = "Appetizers"
+serves = 10
+cooktime = 20
+ingredients = [
+    ["1/2", "cup", "chopped pecans"],
+    ["8", "oz", "cream cheese, softened"],
+    ["1", "cup", "green stuffed olives, finely chopped"],
+    ["1", "tsp", "liquid from olives"],
+    ["1/2", "cup", "mayonnaise (reg or low fat)"],
+    ["", "dash", "pepper"],
+]
+steps = """
+Combine cream cheese and mayo. Add liquid and pepper.  Fold in pecans and
+olives. Chill until ready to serve.
+"""

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="bg-light p-5 rounded">
+  <h1>Recipes Labelled: <i>{{label.text}}</i></h1>
+
+  {% for triple in recipe_triples %}
+    <div class="row m-1">
+      {% for recipe in triple %}
+        {% if recipe %}
+          <div class="col-4">
+            <a class="recipe-link" href="{% url 'recipe' recipe.slug %}"
+              >{{recipe.title}}</a> 
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  {% empty %}
+    <i>No recipes with this label</i>
+  {% endfor %}
+
+</div>
+
+{% endblock content %}

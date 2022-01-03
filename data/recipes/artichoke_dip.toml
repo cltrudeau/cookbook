@@ -1,0 +1,15 @@
+title = "Artichoke Dip"
+category = "Appetizers"
+serves = 8
+cooktime = 35
+ingredients = [
+    ["1", "can", "Artichokes, drained and chopped"], 
+    ["1", "can", "green chiles (small, in salsa isle)"], 
+    ["1", "cup", "mayonnaise"], 
+    ["1", "cup", "parmessan cheese"], 
+]
+labels = ["dips", ]
+steps = """
+Mix all ingredients together. Spray an 8X8 pan with Pam and bake for 30
+minutes at 350F
+"""

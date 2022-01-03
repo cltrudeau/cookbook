@@ -1,0 +1,28 @@
+title = "Blackened Catfish"
+category = "Mains"
+serves = 2
+cooktime = 60
+ingredients = [
+    ["1", "tsp", "black pepper"], 
+    ["1", "lbs", "catfish"], 
+    ["1", "tsp", "cayene pepper"], 
+    ["1", "Tbsp", "garlic powder"], 
+    ["2", "Tbsp", "olive oil"], 
+    ["1", "Tbsp", "onion powder"], 
+    ["1", "tsp", "oregano"], 
+    ["1", "tsp", "paprika"], 
+    ["1/2", "tsp", "salt"], 
+    ["2", "tsp", "thyme"], 
+    ["1", "tsp", "white pepper"], 
+]
+labels = ["Cajun", ]
+steps = '''
+1. Place the fish fillets in a large bowl and drizzle olive oil over them, let stand for 30 minutes
+2. Combine spices in a 9-inch pie plate.
+3. Heat a cast iron skillet upside down over high heat for 5 to 10 minutes or until very hot.
+4. Turn on vent fan during cooking to eliminate smoke.
+5. Using a hot pad, turn pan right side up.
+6.  Remove fish fillets from oil and drain.
+7. Dip each fillet into seasonings and coat each side evenly.
+8. Put fillets in hot skillet and cook 2 to 3 minutes per side, turning only once.
+'''

@@ -1,0 +1,51 @@
+title = "Cheesecake -- New York Accent"
+category = "Desserts"
+serves = 6
+cooktime = 55
+ingredients = [
+    ["2", "Tbsp", "cornstarch"], 
+    ["3/4", "cup", "egg substitute, liquid"], 
+    ["300", "g", "frozen unsweetened raspebbries, thawed"], 
+    ["1/3", "cup", "graham cracker crumbs (low fat if available)"], 
+    ["1 1/2", "tsp", "grated lemon zest"], 
+    ["1", "Tbsp", "lemon juice"], 
+    ["2", "tsp", "lemon zest"], 
+    ["24", "oz", "low fat cream cheese"], 
+    ["", "", "mixed berries to garnish"], 
+    ["3/4", "cup", "sugar (cake)"], 
+    ["1/3", "cup", "sugar (topping)"], 
+    ["1 1/2", "tsp", "vanilla extract"], 
+]
+steps = '''
+**Cake**
+
+In large mixing bowl, using an electric mixer, beat together cream cheese,
+sugar, vanilla until well blended. Add egg substitute, lemon zest and lemon
+juice. Beat just enough to blend, no more.
+
+Coat base of an 8 inch springform pan or 9 inch pie plate with cooking spray.
+
+Add graham cracker crumbs and shake pan so crumbs cling to the bottom and
+sides. Shake excess crumbs into a small bowl. Pour cream cheese mixture into
+prepared pan.
+
+Dust the top lightly with some of the remaining crumbs.
+
+Bake at 325F for 45 minutes or until centre is almost set.
+
+Transfer pan to a wire rack. Cool. Refrigerate at least 3 hours before
+serving. Garnish with mixed berries if desired.
+
+**Raspberry Coulis Topping**
+
+* Frozen unsweetened raspberries thawed
+* Sugar
+* Cornstarch
+* Lemon juice
+* Lemon zest
+
+In small saucepan, combine sugar and cornstarch. Stir in lemon juice, zest and
+juice from drained raspberries. ( Some water may be added to raspberry juice).
+Cook over medium heat until mixture boils, simmer for 1 minute. Remove from
+heat, stir in raspberries. Chill. Just before serving, spread over cheesecake.
+'''

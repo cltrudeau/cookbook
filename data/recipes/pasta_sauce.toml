@@ -1,0 +1,30 @@
+title = "Pasta Sauce"
+description = "Simple, but good, meat sauce for pastas"
+category = "Mains"
+serves = 4
+cooktime = 45
+ingredients = [
+    ["1/2", "tsp", "cayene pepper"],
+    ["1", "lbs", "extra lean ground beef"],
+    ["2-3", "cloves", "garlic"],
+    ["1", "Tbsp", "Italian Seasoning"],
+    ["1", "", "medium onion, chopped"],
+    ["1/2", "cup", "red wine (optional)"],
+    ["1/2", "tsp", "sage"],
+    ["5.5", "oz", "tomato paste"],
+    ["7.5", "oz", "tomato sauce"],
+    ["28", "oz", "tomatoes (single can), can use diced for less work"],
+    ["1", "cup", "water"],
+]
+labels = ["Italian", ]
+steps = """
+Brown beef in large pot such as a dutch oven, using a med.  heat. Drain beef
+in a colander. Set aside for now.  Cook the chopped onion in the container used
+for cooking the beef, using medium heat - about 5 minutes. Ignore the slight
+burning to the bottom of the pan. Pour in the can of tomatoes. If whole
+tomatoes are used, break up with a potato masher. Add tomato sauce, paste,
+water, wine, spices and beef. Bring to a boil, then let simmer until desired
+thickness of sauce is reached. Stir frequently.  The amount of water may be
+adjusted if sauce is too thick at the beginning. The sauce should cook for at
+least one half hour.
+"""

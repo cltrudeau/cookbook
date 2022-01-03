@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+
+<div class="bg-light p-5 rounded">
+  <h1 class="recipe-h1 text-center">{{recipe.title}}</h1>
+
+  {% if recipe.description %}
+    <div class="description-box">
+      {{recipe.markdown.description |safe }}
+    </div>
+  {% endif %}
+
+  <p class="recipe-data">
+    {% if recipe.serves %}
+      <strong>Serves:</strong> {{recipe.serves}} <br/>
+    {% endif %}
+    {% if recipe.cooktime %}
+      <strong>Cook time:</strong> {{recipe.cooktime_label}}
+    {% endif %}
+
+    <div class="d-flex flex-wrap align-content-end">
+      {% for label in recipe.labels.all %}
+        <div> <a class="m-1 btn btn-sm btn-success" 
+          href="{% url 'label' label.text %}">{{label.text}}</a> </div>
+      {% endfor %}
+    </div>
+  </p>
+
+  <h3>Ingredients</h3>
+  <table class="ingredient-box table">
+    {% for ingredient in recipe.ingredients %}
+      <tr>
+        <td> {{ingredient.0}} {{ingredient.1}} </td>
+        <td> {{ingredient.2}} </td>
+      </tr>
+    {% endfor %}
+  </table>
+
+  <h3>Steps</h3>
+  <div class="steps-box">
+    {{recipe.markdown.steps |safe}}
+  </div>
+
+  {% if recipe.notes %}
+    <h3>Notes</h3>
+    <div class="notes-box">
+      {{recipe.markdown.notes |safe}}
+    </div>
+  {% endif %}
+
+</div>
+
+{% endblock content %}

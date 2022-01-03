@@ -1,0 +1,69 @@
+title = "Lasagna (JLT-style)"
+description = '''
+Lasagna casserole with a thick cheese and meat sauce
+'''
+category = "Mains"
+serves = 4
+cooktime = 60
+ingredients = [
+    ["1", "lbs", "extra lean ground beef"],
+    ["1/2", "tsp", "cayene pepper"],
+    ["2-3", "cloves", "garlic"],
+    ["1", "Tbsp", "Italian Seasoning"],
+    ["1", "", "medium onion, chopped (optional)"],
+    ["1/2", "cup", "red wine (optional)"],
+    ["1/2", "tsp", "sage"],
+    ["5.5", "oz", "tomato paste"],
+    ["7.5", "oz", "tomato sauce"],
+    ["28", "oz", "tomatoes (single can), can use diced for less work"],
+    ["1", "cup", "water"],
+    ["340", "g", "block of mozzarella"],
+    ["6", "slices", "Provolone"],
+    ["2-3", "oz", "grated Parmesan"],
+    ["6", "slices", "Havarti"],
+    ["10-12", "", "lasagna noodles"],
+]
+labels = ["Italian", ]
+steps = '''
+**Pasta Sauce**
+
+Brown beef in large pot such as a dutch oven, using medium heat. Drain beef in
+a colander. Set aside for now. Cook the chopped oven in the container used for
+cooking the beef, using medium heat - about 5 minutes. Ignore the slight
+burning to the bottom of the pan. Pour in the can of tomatoes. If whole
+tomatoes are used, break up with a potato masher. Add tomato sauce, paste,
+water, wine, spices and beef. Bring to a boil, then let simmer until desired
+thickness of sauce is reached. Stir frequently. The amount of water may be
+adjusted if sauce is too thick at the beginning. The sauce should cook for at
+least one half hour.
+
+**Lasagna**
+
+Cut the block of Mozzarella cheese into thin slices (1/8 in.) along the thin
+edge of the block - requires 15 slices for a 9 X 13 inch pan.  (Alternatively,
+shred the cheese instead of slicing)
+
+Cook the noodles if not using oven ready. Drain and run cold water over them.
+(Oven ready not recommended).
+
+Put a thin layer of sauce over bottom of 9 X 13 in. pan.  Add a layer of
+noodles lengthwise - takes 3 noodles.  Add a layer of sauce then the layer of
+Havarti cheese or Mozzarella slices. Add a second layer of noodles - across
+pan - cut noodles to the width of the pan.  Add a layer of sauce and thick (or
+double) slices of Mozzarella cheese. Now add a third layer of noodles,
+lengthwise. Add a layer of sauce and Provolone or Mozzarella cheese. Sprinkle
+grated Parmesan cheese on top. (Optional)
+
+Cover pan with aluminum foil. Bake at 375 F for about one hour. Remove foil
+for last 10-15 minutes if additional browning is required.
+
+Putting a couple of rows of wooden tooth picks into the lasagna helps to keep
+the foil from sinking and sticking to the cheese. The top layer of cheese
+should be completed melted with some bubbling and browning around the edges.
+'''
+notes = """
+The lasagna may be made up to 2 days prior and kept uncooked in the
+refrigerator. It may also be frozen prior to cooking and used at a later date.
+It takes about 1 3/4 hours to cook from frozen.
+
+"""

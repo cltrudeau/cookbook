@@ -1,0 +1,25 @@
+title = "Ziplock Omlettes"
+description = '''
+This isn't so much a recipe as a preparation technique.  Especially useful to
+make custom omelletes for individuals and nobody has to wait.
+
+Use whatever ingredients you would normally use in an omellette.
+'''
+category = "Mains"
+serves = 1
+cooktime = 13
+ingredients = [
+    ["2", "", "eggs"],
+    ["", "", "Whatever you want in an omlette"],
+]
+labels = ["breakfast", ]
+steps = '''
+If preparing different omelletes, have each person write their name on a ziploc bag.
+
+1. Crack 2 eggs into a quart sized ziploc bag, shake to combine them
+2. Add ingredients (e.g: cheese, ham, onion, green peppers, tomato, hash browns, salsa, etc.)
+3. Shake bag to mix ingredients
+4. Make sure all of the air is out of the bag
+5. Place bags in roiling boiling water for 13 minutes.
+6. Cut bags and the omellette will roll out of the bag (careful they'll be hot)
+'''

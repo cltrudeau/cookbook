@@ -1,0 +1,39 @@
+title = "Chicken Cacciatore"
+category = "Mains"
+serves = 4
+cooktime = 35
+ingredients = [
+    ["1", "tsp", "basil"],
+    ["1", "", "bay leaf"],
+    ["1", "lbs", "bonesless, skinless chicken"],
+    ["3", "cup", "broad noodles, warm"],
+    ["28", "oz", "can of diced tomatoes"],
+    ["1", "cup", "chopped green bell pepper"],
+    ["1", "cups", "chopped onion"],
+    ["4", "tsp", "cornstarch"],
+    ["1", "tsp", "dried basil"],
+    ["1/2", "tsp", "dried oregano"],
+    ["1/2", "cup", "dry red wine (white can be used)"],
+    ["1/4", "tsp", "garlic powder"],
+    ["6", "cloves", "garlic, chopped"],
+    ["3", "cups", "medium mushrooms, quartered"],
+    ["", "", "olive oil cooking spray"],
+    ["", "", "salt and pepper to taste"],
+    ["2", "Tbsp", "water, comine with cornstarch"],
+]
+steps = '''
+Cut chicken into bite sized pieces, sprinkle with combined tsp. of basil,
+oregano and garlic powder. Spray large skillet with cooking spray. Cook
+chicken over medium heat until browned only. Remove and sprinkle with salt and
+pepper.
+
+Add onion, garlic and bell pepper to skillet, saute 3-4 minutes.
+
+Add mushrooms, tomatoes with liquid, wine, basil, and bay leaf. Heat to boiling.
+
+Add chicken, reduce heat and simmer covered until chicken is tender. (20-30 min.)
+
+Heat to boiling, stir in cornstarch and water mixture. Boil, stirring
+constantly until thickened. Discard bay leaf. Season to taste with salt and
+pepper. Serve chicken and sauce over noodles. 
+'''

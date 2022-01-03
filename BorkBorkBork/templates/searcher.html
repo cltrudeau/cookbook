@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% comment %}
+  Template file to interact with the javascript based site search tool
+{% endcomment %}
+
+{% block extra_head %}
+  <script src="search.js"></script>
+{% endblock extra_head %}
+
+{% block content %}
+
+<div class="bg-light p-5 rounded">
+  <h1>Search</h1>
+
+  <!-- Templates -->
+  <template id="result-template">
+      <section class="result">
+      <h1 class="search"><a href="#result_url"></a></h1>
+      <a class="result-url" href="#result_url"></a><br/>
+      <p class="result-summary"></p>
+  </section>
+  </template>
+
+  <header>
+    <div id="search-inputs" class="row g-3">
+      <div class="col-auto">
+        <input id="search-bar" class="form-control" type="search" autofocus>
+      </div>
+      <div class="col-auto">
+        <button id="search-button" class="btn btn-outline-success"
+          >&#128269;</button>
+      </div>
+    </div>
+
+    <script>
+      document.getElementById("search-button").style.height = \
+        document.getElementById("search-bar").offsetHeight + "px";
+    </script>
+  </header>
+
+  <div id="search-result">
+  </div>
+
+</div>
+
+{% endblock content %}
+</body>
+</html>

@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+
+<div class="bg-light p-5 rounded">
+  <div class="row">
+    <div class="col">
+      <h1>Bork, Bork, Bork</h1>
+      <p>
+        Welcome, this is a collection of recipes commonly used in my family.
+        Enjoy!
+      </p>
+
+      <div class="d-flex flex-wrap align-content-end">
+        {% for label in labels %}
+          <div> <a class="m-1 btn btn-success" 
+            href="{% url 'label' label.text %}">{{label.text}}</a> </div>
+        {% endfor %}
+      </div>
+
+    </div>
+    <div class="col text-end">
+      <img src="{% static 'chef.svg'%}">
+    </div>
+  </div>
+
+</div>
+
+{% endblock content %}

@@ -1,0 +1,24 @@
+title = "Butternut Squash aux Fine Herbs"
+category = "Mains"
+serves = 4
+cooktime = 25
+ingredients = [
+    ["1/2", "tsp", "fresh tarragon"], 
+    ["1", "", "large butternut squash"], 
+    ["3", "", "large mushrooms, thinly sliced"], 
+    ["1 1/2", "tsp", "minced fresh chervil"], 
+    ["1", "Tbsp", "minced fresh parsely"], 
+    ["1/4", "cup", "non-fat, or low-fat chicken stock"], 
+    ["1", "tsp", "olive oil"], 
+    ["1", "", "large onion, thinly sliced"], 
+    ["1 1/2", "tsp", "snipped fresh chives"], 
+]
+labels = ["sides", ]
+steps = """
+Peel squash, remove the seeds and cut into ¾" cubes. Heat oil in large
+nonstick frying pan over medium-low heat, and add the onions and mushrooms.
+Sauté for about 5 minutes or until the onion softens. Add the squash and
+chicken stock. Cover tightly and cook until squash is tender, approximately 20
+minutes. Remove the cover and cook a minute or two longer to evaporate most of
+the remaining liquid. Sprinkle on the parsley, chives, chervil and tarragon.
+"""

@@ -1,0 +1,23 @@
+title = "Steak (oven/seared)"
+description = "Steak done to perfection.  Cooked first then pan seared."
+category = "Mains"
+serves = 1
+cooktime = 25
+ingredients = [
+    ["1", "", "pepper"],
+    ["1", "", "salt"],
+    ["1", "", "steak"],
+]
+steps = '''
+1. Pre-heat oven to 275F
+2. (Optionally) Salt/pepper steaks to taste
+3. Bake steak in oven.  The slow cooking process makes the meat tender.
+4. Cook to the correct core temperature as desired:
+      * Medium Rare 90-95 degrees (20-25 minutes)
+      * Medium 100-105 degrees (25-30 minutes)
+5. Cooking times may vary greatly depending on thickness of steak. 2" steaks can take up to 45 minutes. Watch their temperature as they cook.
+6. Heat oil in a skillet, iron works great, on medium-high heat.
+7. Quickly sear the steaks. Less than 2 minutes per side, again to taste.
+
+Searing seals in the taste and makes the food safe.  By searing after cooking you get a nice thin sear line and cooked perfectly to temperature.
+'''

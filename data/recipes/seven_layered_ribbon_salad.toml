@@ -1,0 +1,44 @@
+title = "Seven Layered Ribbon Salad"
+category = "Desserts"
+serves = 8
+cooktime = 25
+ingredients = [
+    ["2", "", "envelopes unflavoured gelatin"],
+    ["2", "cups", "milk"],
+    ["4", "", "small packages of Jello: green, red, orange, yellow"],
+    ["2", "cups", "sour cream"],
+    ["1", "cup", "sugar"],
+    ["2", "tsp", "vanilla"],
+]
+steps = '''
+**4 Jello Layers**
+
+* small packages of Jello - green, red, orange, yellow
+
+Lightly oil a 13x9x2 inch (33x23x5 cm) glass dish, then chill. Alternate Jello
+and cream layers, starting and ending with Jello
+
+Dissolve one pack of Jello in 1 cup (250 ml) of boiling water. Add 1/2 cup
+(125 ml) of cold water. Pour in glass dish - leave to set.
+
+*IT IS IMPORTANT* to make sure each layer is set before adding next layer.
+
+**Cream Layer**
+
+* sour cream
+* milk
+* sugar
+* vanilla
+* envelopes unflavoured gelatin
+
+Heat 2 cups (500 ml) of milk to boiling. Add 1 cup (250 ml) sugar. Mix
+together until sugar is dissolved. Mix 2 envelopes of gelatin in 1/2 cup (125
+ml) of water. Add milk and sugar to mixture. Stir until dissolved. Let cool.
+Add sour cream and vanilla. Blend well with a whisk. Put 12/3 cup (415ml) or
+1/3 of mixture over each layer of Jello. Run knife around edge and unmold onto
+tray when set.
+'''
+notes = """
+If cream mixture gets too thick waiting for Jello layers to set, put the bowl
+in a pan of hot water.
+"""

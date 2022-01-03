@@ -1,0 +1,27 @@
+title = "Beef Bourguignon"
+category = "Mains"
+serves = 4
+cooktime = 180
+ingredients = [
+    ["2", "lbs", "lean beef, such as round steak, cut in cubes"], 
+    ["", "", "chopped parsley"], 
+    ["3", "Tbsp", "flour"], 
+    ["1", "cup", "fresh or canned mushrooms (optional)"], 
+    ["2", "", "cloves garlic, crushed"], 
+    ["1-2", "tsp", "liquid gravy browning such as Kitchen Bouquet"], 
+    ["2", "", "medium onions, sliced, or 12 very small onions peeled"], 
+    ["1/4", "tsp", "pepper"], 
+    ["1", "cup", "red wine"], 
+    ["1", "tsp", "salt (optional)"], 
+    ["1", "", "small bay leaf, crumbled finely (although I use multiple and put them in whole)"], 
+    ["1/2", "tsp", "thyme"], 
+    ["1", "cup", "water"], 
+]
+labels = ["French", ]
+steps = """
+In oven proof dutch oven or large casserole, mix all ingredients
+except liquids. Then stir in liquids. Cover and bake at 350 F
+oven for 3 hours or until meat is very tender stirring
+occasionally (at least every 1/2 hour). Serve over rice or
+noodles sprinkled with chopped parsley. Makes 4-6 servings.
+"""

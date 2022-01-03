@@ -1,0 +1,31 @@
+title = "Croque Monsieur"
+description = "Fancy pants way of saying grilled ham and cheese sandwhich"
+category = "Mains"
+serves = 4
+cooktime = 20
+ingredients = [
+    ["1", "Tbsp", "butter"], 
+    ["4", "slices", "cooked ham"], 
+    ["1", "tsp", "dijon mustard"], 
+    ["2", "", "eggs"], 
+    ["2", "cups", "grated Gruyere cheese"], 
+    ["2", "Tbsp", "mayonnaise"], 
+    ["2", "Tbsp", "milk"], 
+    ["1", "Tbsp", "oil"], 
+    ["8", "slices", "white bread (thin)"], 
+]
+labels = ["French", ]
+steps = '''
+Cut crusts from bread (optional). Combine cheese, mustard and enough
+mayonnaise to make mixture paste-like, make sure mixture is not wet. 
+
+Spread mixture thickly on 8 slices of bread. Place slices of ham on 4 slices
+of bread, spread with cheese. Cover with remaining slices of bread, cheese
+side down. 
+
+Beat eggs and milk together. Pour into a shallow pan. Dip both sides of each
+sandwich in egg mixture. 
+
+Heat oil and butter in large frying pan. Brown sandwiches on each side for 5
+minutes or until golden brown.
+'''

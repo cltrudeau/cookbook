@@ -1,0 +1,32 @@
+title = "Tiramisu Cake"
+category = "Desserts"
+serves = 10
+cooktime = 25
+ingredients = [
+    ["1/4", "cup", "amaretto"],
+    ["1", "cup", "brewed espresso"],
+    ["4", "", "egg yolks"],
+    ["", "", "package lady fingers"],
+    ["1", "lbs", "mascarpone cheese"],
+    ["", "", "powdered sugar"],
+    ["3", "Tbsp", "sugar"],
+    ["", "", "unsweetened cocoa"],
+    ["1", "cup", "whipping cream, whipped"],
+]
+steps = '''
+Prepare espresso. Cool. 
+
+Beat egg yolks and sugar until lemon in colour and thick. Add cheese and
+blend. Add liquor. Set aside. 
+
+In separate bowl beat whipping cream and set aside. Dip cookies in cooled
+espresso and place on 9x9x2 inch (23x23x5 cm) baking dish, covering the pan
+bottom as well as you can. Pour half the cheese mixture over the cookies, then
+spread all the whipped cream, spreading it evenly.
+
+Sprinkle lightly with cocoa. Dip more ladyfingers and make another layer. Add
+the rest of the cheese mixture. Sprinkle with more cocoa. Cover with plastic
+wrap and refrigerate for several hours.
+
+Before serving, sprinkle with powdered sugar if desired.
+'''

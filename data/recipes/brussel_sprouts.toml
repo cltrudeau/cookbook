@@ -1,0 +1,18 @@
+title = "Brussel Sprouts"
+description = "Makes brussel sprouts edible"
+category = "Mains"
+cooktime = 5
+ingredients = [
+    ["", "", "Brussel sprouts"], 
+    ["", "", "Olive oil"], 
+    ["", "pinch", "Salt"], 
+]
+labels=['sides', ]
+steps = '''
+1. Quarter the brussel sprouts
+2. Lightly coat with olive oil and a bit of salt
+3. Broil on medium until lightly browned
+'''
+notes = '''
+From *Cooking for Geeks* book
+'''

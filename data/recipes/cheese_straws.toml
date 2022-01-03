@@ -1,0 +1,22 @@
+title = "Cheese Straws"
+category = "Appetizers"
+serves = 28
+cooktime = 15
+ingredients = [
+    ["", "pinch", "All-purpose flour, for dusting"],
+    ["", "pinch", "Coarse salt"],
+    ["14", "oz", "frozen puff pastry, thawed"],
+    ["1", "", "large egg lightly beaten"],
+    ["4", "oz", "Parmigiano-Reggiano cheese approx. 11/2 cups coursely grated"],
+]
+steps = '''
+1. On a lightly floured work surface, roll out pastry dough to a 12-inch square. Use a pastry brush to dust off excess flour; brush some beaten egg over dough until well moistened.
+2. Sprinkle bottom half of dough with half the cheese and a pinch of salt. Fold top half of dough over cheese-covered section, and press gently all over dough to seal. Roll out dough again to a 7 1/2-by-12 1/2-inch rectangle. Brush top of dough with more beaten egg. Sprinkle evenly with remaining cheese, and season with salt; press gently on topping to adhere it.
+3. Using a pastry wheel or sharp knife, trim edges to form a neat 7-by-12-inch rectangle. Cut dough into 1/4-by-12-inch strips. Twist into spirals, and place about 1/2 inch apart on baking sheets. To prevent straws from straightening out, gently press both ends onto sheets. Cover with plastic wrap, and refrigerate at least 30 minutes (or up to overnight).
+4. Preheat oven to 375 degrees. Bake, rotating sheets halfway through, until straws are golden brown and cooked through, about 15 minutes. Remove from oven; loosen straws from sheets with a thin spatula and transfer to a wire rack to cool. Serve warm or at room temperature.
+'''
+notes = '''
+In addition to cheese, you can sprinkle the straws with poppy seeds, sesame seeds, paprika, or cayenne pepper. Once cooled, the straws will keep at room temperature up to one week.
+
+For the most flavorful and crisp results, use best-quality (all-butter) puff pastry, such as Dufour, available at specialty-food stores and some supermarkets.
+'''

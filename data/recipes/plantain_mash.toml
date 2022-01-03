@@ -1,0 +1,20 @@
+title = "Plantain Mash"
+category = "Mains"
+serves = 2
+cooktime = 10
+ingredients = [
+    ["3 1/2", "oz", "butter"],
+    ["2", "oz", "fresh coriander, chopped"],
+    ["1", "tsp", "fresh thyme leaves"],
+    ["2", "cloves", "garlic"],
+    ["3", "oz", "olive oil"],
+    ["2", "", " plantains"],
+]
+labels = ["sides", ]
+steps = """
+Preheat the oven to 200C/400F. Peel the plantains, cut into large pieces and
+cook gently in a pan with the olive oil. add the thyme, garlic and half of the
+butter. Bake in the oven for about 10 minutes. This will soften the plantains
+further. When ready, remove the plantains from the oven and mash with a fork.
+Add the rest of the butter and the chopped coriander.
+"""

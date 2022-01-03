@@ -1,0 +1,11 @@
+title = "Blue Cheese Fondue Sauce"
+category = "Sauces"
+serves = 4
+cooktime = 5
+ingredients = [
+    ["1/4", "cup", "blue cheese, crumbled"],
+    ["1/2", "cup", "sour cream"],
+    ["1", "tsp", "Worcestershire sauce"],
+]
+labels = ["fondue", "dips", ]
+steps = "Mix thoroughly and refrigerate. Serve at room temperature."

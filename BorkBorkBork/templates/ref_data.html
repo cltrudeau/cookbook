@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="bg-light p-5 rounded">
+  <h1>Recipes Data </i></h1>
+
+  <p>
+    This site is built using a static-site generator called 
+    <a href="https://github.com/meeb/django-distill">django-distill</a>.
+    Each recipe is stored in a <code>.toml</code> file then processed by the
+    static site generator. Original data files are available below.
+  </p>
+
+  <p>
+    All files: <a class="recipe-link" href="/data/recipes.zip"
+      >recipes.zip</a><br/><br/>
+
+    {% for name in path_list %}
+      <a class="recipe-link" href="/data/{{name}}">{{name}}</a><br/>
+    {% endfor %}
+  </p>
+
+</div>
+
+{% endblock content %}

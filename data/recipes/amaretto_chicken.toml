@@ -1,0 +1,26 @@
+title = "Amaretto Chicken"
+category = "Mains"
+serves = 6
+cooktime = 45
+ingredients = [
+    ["1", "cup", "parmessan cheese"], 
+    ["3", "Tbsp", "all purpose flour"],
+    ["1", "cup", "amaretto"],
+    ["5-10", "", "boneless chicken breasts"],
+    ["2 ", "Tbsp", "butter or margarine"],
+    ["2", "Tbsp", "cooking oil"],
+    ["1 1/2", "Tbsp", "dijon mustard"],
+    ["6", "Tbsp", "frozen orange juice concentrate, thawed"],
+    ["1 1/2", "Tbsp", "garlic powder"],
+    ["2", "Tbsp", "paprika"],
+    ["1 1/2", "Tbsp", "pepper"],
+    ["1/2", "Tbsp", "salt"],
+]
+steps = """
+Mix all dry ingredients. Coat each chicken breast in dry
+mixture. Saute in oil and butter in a skillet, only until brown on
+both sides. Remove chicken breasts to a baking dish. Add
+the remaining ingredients to the skillet, stirring to deglaze.
+Increase heat. Cook until slightly thickened, stirring
+constantly. Pour over chicken. Bake at 375 F for 45 minutes.
+"""
