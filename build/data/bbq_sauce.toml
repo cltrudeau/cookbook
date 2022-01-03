@@ -1,0 +1,14 @@
+title = "BBQ Sauce"
+category = "Sauces"
+serves = 4
+cooktime = 1
+ingredients = [
+    ["1", "Tbsp", "butter"], 
+    ["7.5", "oz", "can tomato sauce"], 
+    ["1/2", "tsp", "garlic powder"], 
+    ["2", "Tbsp", "lemon juice"], 
+    ["1", "Tbsp", "prepared mustard"], 
+    ["1", "Tbsp", "Worcestershire sauce"], 
+]
+labels = ["fondue", ]
+steps = "Combine all ingredients, heat to boiling.  Serve hot."

@@ -1,0 +1,57 @@
+title = "Nanaimo Bars"
+category = "Desserts"
+serves = 24
+cooktime = 30
+ingredients = [
+    ["1", "cup", "Angel Flake coconut"],
+    ["2", "Tbsp", "Bird's Custard Powder"],
+    ["1", "Tbsp", "butter"],
+    ["1/4", "cup", "butter, softened"],
+    ["1/2", "cup", "butter, softned"],
+    ["1", "", "egg"],
+    ["2", "cups", "graham wafer crumbs"],
+    ["2", "Tbsp", "granulated sugar"],
+    ["2", "cups", "icing sugar, sifted"],
+    ["3", "Tbsp", "milk"],
+    ["1", "oz", "Semisweet chocolate"],
+    ["1/2", "oz", "Semisweet chocolate, melted, cooled"],
+    ["1", "tsp", "vanilla"],
+]
+labels = ["dips", ]
+steps = '''
+**Base**
+
+* Semisweet chocolate, melted and cooled
+* graham wafer crumbs
+* Angel Flake coconut
+* butter - softened
+* granulated sugar
+* vanilla
+* egg
+
+Combine base ingredients, mix well. Press into 9 inch (2.5 l) square cake pan.
+Chill
+
+**FILLING**
+
+* butter - softened
+* milk
+* Bird's Custard Powder
+* icing sugar - sifted
+
+Combine butter, milk and custard powder . Blend in icing sugar until smooth.
+Spread over base. Chill at least 15 minutes
+
+**GLAZE**
+
+* Semisweet chocolate
+* butter
+
+Partially melt chocolate with butter over hot water. Remove from heat and stir
+until completely melted. Spread over custard layer. Chill; store in
+refrigerator. Will keep up to one month. Makes 24 bars.
+'''
+notes = """
+Original recipe said "4 squares Semisweet chocolate" and "2 squares Semisweet
+chocolate, melted, cooled"
+"""

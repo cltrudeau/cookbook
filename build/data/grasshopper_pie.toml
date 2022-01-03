@@ -1,0 +1,36 @@
+title = "Grasshopper Pie"
+description = '''
+Frozen mint dessert, contains some alcohol
+'''
+category = "Desserts"
+serves = 8
+cooktime = 20
+ingredients = [
+    ["1", "oz", "Creme de Cacao"], 
+    ["1 1/2", "oz", "Creme de Menthe"], 
+    ["24", "", "large marshmallows"], 
+    ["3/4", "cup", "milk"], 
+    ["18", "", "Oreo Cookies, roll into crumbs, line pie plate"], 
+    ["1", "cup", "whipping cream"], 
+]
+steps = '''
+**Crust**
+
+* Oreo Cookies - roll into crumbs - line pie plate
+* large marshmallows
+* milk
+
+**Filling**
+
+Combine marshmallows and milk. Melt in a double boiler.
+
+Let cool, then add:
+
+* Creme,e de Cacao
+* Creme de Menthe
+* whipping cream
+
+Whip cream and fold into marshmallow mixture. Freeze.
+
+Thaw 20-30 minutes before serving.
+'''

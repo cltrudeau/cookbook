@@ -1,0 +1,21 @@
+title = "Skor Crunch Bars"
+category = "Desserts"
+serves = 10
+cooktime = 45
+ingredients = [
+    ["3/4", "cup", "butter"],
+    ["2", "Tbsp", "butter"],
+    ["1", "can", "sweetened condensed milk"],
+    ["200", "g", "Chipits Skor Toffee Bits (1 package)"],
+    ["11/2", "cups", "flour"],
+    ["3/4", "cup", "packed brown sugar"],
+    ["11/2", "cup", "semi-sweet or milk chocolate chips"],
+]
+steps = '''
+1. Preheat oven to 350F. Grease a 13x9 pan.
+2. Base: combine flour and brown sugar. Cut in butter until mixture is crumbly. Press evenly in pan. Bake for 15-20 minutes, or until golden brown.
+3. Topping: Heat sweetened condensed milk & butter in heavy saucepan over medium-low heat, stirring constantly (watch out it burns easily), for 5-10 minutes, or until thickened. Spread over baked base. Bake 12-15 minutes longer, or until golden.
+4. Sprinkle chocolate chips evenly on top. Return to oven for 2-3 minutes, or until chocolate is soft & shiny. Remove from oven. Spread chocolate evenly. Sprinkle Skor bits on top, pressing lightly into chocolate.
+
+Chill to set chocolate before cutting into bars. Enjoy!
+'''

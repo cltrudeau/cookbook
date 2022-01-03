@@ -1,0 +1,11 @@
+title = "Horseradish Fondue Sauce"
+category = "Sauces"
+serves = 4
+cooktime = 5
+labels=["fondue", ]
+ingredients = [
+    ["", "", "horseradish to taste"],
+    ["1/2", "cup", "ketchup"],
+    ["4", "Tbsp", "vinegar"],
+]
+steps = "Mix and serve at room temperature"

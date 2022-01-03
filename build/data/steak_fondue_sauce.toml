@@ -1,0 +1,11 @@
+title = "Steak Fondue Sauce"
+category = "Sauces"
+serves = 4
+cooktime = 10
+ingredients = [
+    ["7.5", "oz", "can of tomato sauce"],
+    ["1/2", "cup", "Heinz 57 Steak Sauce"],
+    ["2", "Tbsp", "Salad oil"],
+]
+labels = ["fondue", ]
+steps = "Combine ingredients in saucepan - bring to a boil.  Serve hot."

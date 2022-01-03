@@ -1,0 +1,12 @@
+title = "Windy Beach Tropical Drink"
+category = "Drinks"
+serves = 2
+ingredients = [
+    ["", "", "ice"], 
+    ["", "", "splash of lime juice"], 
+    ["1/2", "cup", "milk"], 
+    ["1/2", "cup", "orange juice"], 
+    ["1", "oz", "spiced rum"], 
+    ["2", "oz", "white creme de cacao"], 
+]
+steps = "Mix all ingredients in a blender until smooth."

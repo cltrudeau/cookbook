@@ -19,7 +19,6 @@ logs/*
 *.egg
 *.eggs
 *.egg-info
-build/
 dist/
 docs/_build/
 extras/sample_site/uploads/

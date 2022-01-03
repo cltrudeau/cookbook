@@ -1,0 +1,50 @@
+title = "Lemon Charlotte Russe"
+category = "Desserts"
+serves = 8
+cooktime = 25
+ingredients = [
+    ["", "", "Candied lemon rind and fresh raspberries for garnish (optinal)"],
+    ["4", "", "eggs, separated"],
+    ["1/2", "cup", "freshly squeezed lemon juice (bottled stuff works fine)"],
+    ["1", "", "grated lemon rind (optional)"],
+    ["16-20", "", "lady fingers, split, soft kind work best"],
+    ["1/4", "tsp", "salt"],
+    ["1", "cup", "sugar"],
+    ["1", "", "envelope unflavoured gelatin"],
+    ["1", "cup", "whipping cream, whipped to soft peaks"],
+]
+steps = '''
+**Base**
+
+Sprinkle gelatin over lemon juice in small bowl. Let soften 5 minutes.
+
+Beat together with electric mixer yolks, 1/2 cup of the sugar and the salt in
+top of double boiler. Gradually beat in gelatin mixture. Cook over boiling
+water, stirring constantly until mixture starts to thicken and gelatin is
+dissolved (6 minutes). Don't let bottom of double boiler top touch water.
+
+Pour into large bowl. Add lemon rind. Chill until mixture begins to mound, (15
+- 20 minutes) stirring occasionally.
+
+Meanwhile, line bottom and sides of an 8x3 inch spring form pan with lady
+fingers, curved side out.
+
+Beat egg whites with electric mixer in large bowl until foamy. Gradually add
+remaining 1/2 cup sugar and beat until soft peaks form. Fold the beaten egg
+whites and whipped cream into the lemon-gelatin mixture. Spoon into
+ladyfinger-lined pan. Cover.
+
+Chill 4 hours or overnight. Carefully remove sides of spring form pan. Garnish
+with candied lemon rind and fresh raspberries if you wish.
+
+**CANDIED LEMON RIND**
+
+Bring large pot of water to boiling. Drop in rind of 3 lemons cut into thin
+strips about 1/8 inch (3 cm) wide. Boil, uncovered 10 minutes. Drain. Rinse
+under cold water. Drain. Reserve.
+
+Combine 2 cups (500 ml) of sugar and 1 cup (250 ml) of cold water in medium
+sized heavy saucepan. Bring to boiling, stirring to dissolve sugar. Boil 5
+minutes without stirring. Add lemon rind. Lower heat and simmer 15 minutes.
+Drain. Reserve rind.
+'''

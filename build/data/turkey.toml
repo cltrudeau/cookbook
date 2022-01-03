@@ -1,0 +1,55 @@
+title = "Turkey (scaled & roasted)"
+description = """
+Scalding the turkey shrinks the skin and locks in the juices. This method also
+uses a higher heat for less time than just roasting alone.
+"""
+category = "Mains"
+serves = 4
+cooktime = 150
+ingredients = [
+    ["1/2", "tsp", "cayene pepper"],
+    ["3-4", "", "stalks of celery, finely chopped"],
+    ["1", "tsp", "garlic powder"],
+    ["2", "Tbsp", "Italian spice"],
+    ["1/2-3/4", "cup", "melted butter or margarine"],
+    ["1", "", "medium onion, finely chopped"],
+    ["1 1/2", "Tbsp", "sage"],
+    ["1", "Tbsp", "thyme"],
+    ["1", "" , "Turkey"],
+    ["20", "cups", "water"],
+    ["1/2-1", "", "loaf white bread broken into bite-sized chunks"],
+]
+steps = '''
+**Turkey**
+
+Turkey: best to use one that is NOT a Butter ball or injected with other junk
+
+Boiling water: usually requires 1 electric kettle full and one pot
+with similar amount from stove - both required at same time
+
+Ensure that turkey is thawed - may need to set in sink full of cold water for
+several hours - most frozen turkeys take 3-4 days to thaw in the refrigerator
+(dependent on size). Clean out and wash out turkey. Remove the tail piece and
+any excess fat from the bird. Leave in sink with breast side up. Pour half the
+boiling water over entire bird. Turn turkey over and pour the remaining water
+over the back of the bird. You will see the skin shrink. Stuff bird with
+prepared dressing. Force the legs through the skin bridge.
+
+Roast at 400F for approximately 15 minutes per pound. (30 minutes per kilogram)
+
+**Dressing**
+
+* white bread broken into bite sized chunks
+* onion - finely chopped
+* celery - finely chopped
+* Italian spice
+* sage
+* thyme
+* garlic powder
+* cayenne pepper
+* melted butter or other spread
+
+Mix all dry ingredients well in large bowl or top section of roasting pan.
+Pour melted spread over the ingredients and mix well - mixture should be just
+slightly moist. Stuff mixture into the cavity of the turkey.
+'''

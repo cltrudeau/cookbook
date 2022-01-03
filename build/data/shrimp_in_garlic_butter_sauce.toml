@@ -1,0 +1,41 @@
+title = "Shrimp in butter garlic sauce"
+category = "Mains"
+serves = 2
+cooktime = 15
+ingredients = [
+    ["4", "Tbsp", "Butter, unsalted"],
+    ["3", "cloves", "Garlic"],
+    ["4", "Tbsp", "Lemon juice"],
+    ["1", "lbs", "Shrimp"],
+]
+steps = '''
+Crush/chop 3-4 cloves of garlic. Do not slice (doesn't melt into sauce enough).
+
+Put 1 tablespoon of butter into a frying pan and fry the garlic. Once the
+garlic is brown, proceed.
+
+If shrimp is not pre-cooked: fry shrimp in the butter and garlic.
+
+Once shrimp is cooked (or pre-cooked), add shrimp, rest of butter to pan. Fry
+for about 5 minutes.
+
+(Optional) Add lemon juice
+
+Spice with pepper, parsely, Herbs de Provence or whatever else you like
+'''
+notes = '''
+**Preparation Notes**
+
+Defrost shrimp by soaking in cold water for 30 minutes
+
+**Variations**
+
+Possibly experiment with only 3 Tbsp of butter
+
+Need a lot of parsely if coating in pan, most of it ends up remaining in the sauce
+
+Instead of "dry plating", serve shrimp with the butter sauch in own shallow bowl
+
+Last preparation used 2 cloves garlic, very thinly sliced, didn't work well,
+garlic didn't melt enough, switch back to crushing and dicing
+'''

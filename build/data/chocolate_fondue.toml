@@ -1,0 +1,17 @@
+title = "Chocolate Fondue"
+category = "Desserts"
+serves = 2
+cooktime = 10
+ingredients = [
+    ["2", "Tbsp", "granulated sugar"],
+    ["1/4", "cup", "light cream or milk"],
+    ["2", "Tbsp", "orange, chocolate or coffee liquor"],
+    ["3", "oz", "semisweet chocolate"],
+    ["1/2", "tsp", "vanilla"],
+]
+labels = ["fondue", ]
+steps = """
+Combine chocolate, sugar and cream or milk in medium microwavable bowl.
+Microwave at medium (50% power) 2 minutes, stirring part way through. Stir
+until smooth. Stir in liqueur and vanilla. Serve warm for dipping.
+"""

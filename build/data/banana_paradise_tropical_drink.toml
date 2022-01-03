@@ -1,0 +1,13 @@
+title = "Banana Paradise Tropical Drink"
+category = "Drinks"
+serves = 2
+cooktime = 5
+ingredients = [
+    ["2", "oz", "Bailey's Irish Cream"],
+    ["1", "", "banana, ripe"],
+    ["1 1/2", "cup", "ice"],
+    ["1", "", "large scoop vanilla ice cream"],
+    ["1", "oz", "macadamia nut liquor"],
+    ["3/4", "oz", "vodka"],
+]
+steps = "Blend, makes 2 drinks"

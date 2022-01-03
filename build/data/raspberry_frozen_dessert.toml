@@ -1,0 +1,23 @@
+title = "Raspberry Frozen Dessert"
+category = "Desserts"
+serves = 10
+ingredients = [
+    ["2", "Tbsp", "butter or margarine"], 
+    ["1", "cup", "chocolate wafer crumbs"], 
+    ["1", "L", "Cool Whip (thawed)"], 
+    ["1", "can", "frozen concentrated raspberry juice, thawed"], 
+    ["2", "Tbsp", "icing sugar"], 
+    ["250", "g", "Light Philadelphia Cream Cheese (softened)"], 
+]
+steps = '''
+Combine crumbs and butter and press onto bottom of a 9 inch (23 cm) spring
+form pan. Place crust in freezer for 15 minutes.
+
+Place cream cheese, raspberry concentrate and icing sugar in blender or food
+processor. Beat on high speed until smooth. Pour into large bowl and fold in
+Cool Whip.
+
+Pour over crust. Freeze until firm (approximately 4 hours). Remove from
+freezer 10 minutes before serving. Makes 10 - 12 servings.
+
+'''

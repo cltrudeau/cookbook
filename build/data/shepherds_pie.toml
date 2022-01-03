@@ -1,0 +1,21 @@
+title = "Shepard's Pie"
+category = "Mains"
+serves = 4
+cooktime = 30
+ingredients = [
+    ["10", "oz", "can tomato sauce"],
+    ["1", "can", "corn"],
+    ["1/2", "lbs", "ground beef"],
+    ["3-4", "", "potatoes"],
+    ["200", "g", "shredded cheddar"],
+]
+steps = '''
+1. Brown the ground beef in a frying pan
+2. While browning the ground beef boil the potatoes (peeled)
+3. When ground beef is ready add tomato sauce and a bit of browning for colouring.  Optionally spice, some of: italian seasoning, sage, pepper and or a bit of cayanne as you see fit.
+4. When potatoes are ready mash intensly or whip
+5. Cover the bottom of a square pyrex with the ground beef, layer the potato on top
+6. Cover the potato with a thin layer of cheese
+7. Broil pie under High setting until cheese bubbles or starts to crisp
+'''
+
