@@ -119,6 +119,7 @@ class Crawler:
             url, html, next_links = v
             if self.url_match(url) and not self.is_visited(url):
                 self.db_conn.execute("INSERT INTO crawl_data VALUES (?, ?)", (url, html))
+
                 self.db_conn.commit()
                 self.mark_visited(link)
                 if url != link: self.mark_visited(url) # might have url != link, e.g. if a redirect occurs

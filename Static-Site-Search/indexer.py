@@ -4,6 +4,7 @@ import sqlite3
 from bs4 import BeautifulSoup
 import re
 import json
+import urllib
 
 import logging
 logging.basicConfig(level=logging.DEBUG)
@@ -103,6 +104,7 @@ class Indexer:
             logging.debug("  " + str(len(token_scores)) + " tokens found")
             for token in token_scores:
                 self.add_to_index(token, (url_id, token_scores[token]))
+
             self.index_urls.append((url, title, description_data, doc_length))
             url_id += 1
 
@@ -111,7 +113,19 @@ class Indexer:
         logging.info("Storing index to database...")
         cur = self.db_conn.cursor()
         cur.execute("CREATE TABLE IF NOT EXISTS index_data (index_urls_json TEXT, index_json TEXT)")
-        index_urls_json = json.dumps(self.index_urls, ensure_ascii=False)
+
+        # -----
+        # CT changed
+        #    fix URLS to be relative
+        index_urls = list(self.index_urls)
+        for i, item in enumerate(self.index_urls):
+            index_urls[i] = list(index_urls[i])
+            parts = urllib.parse.urlparse(index_urls[i][0])
+            index_urls[i][0] = parts.path
+
+        index_urls_json = json.dumps(index_urls, ensure_ascii=False)
+        # ------
+
         index_json = json.dumps(self.index, ensure_ascii=False).replace(" ", "")
         cur.execute("INSERT INTO index_data VALUES (?, ?)", (index_urls_json, index_json))
         cur.close()
