@@ -9,9 +9,9 @@
     <div class="row m-1">
       {% for recipe in triple %}
         {% if recipe %}
-          <div class="col-4">
+          <div class="col-md-4 py-1">
             <a class="recipe-link" href="{% url 'recipe' recipe.slug %}"
-              >{{recipe.title}}</a> 
+              >{{recipe.title}}</a>
           </div>
         {% endif %}
       {% endfor %}

@@ -12,9 +12,9 @@
         Enjoy!
       </p>
 
-      <div class="d-flex flex-wrap align-content-end">
+      <div class="d-flex flex-wrap justify-content-center">
         {% for label in labels %}
-          <div> <a class="m-1 btn btn-success" 
+          <div> <a class="m-1 btn btn-success"
             href="{% url 'label' label.text %}">{{label.text}}</a> </div>
         {% endfor %}
       </div>
