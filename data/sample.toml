@@ -15,7 +15,7 @@ cooktime = 35
 
 # Ingredients are stored as JSON array, each item is amount, measure, item
 ingredients = [
-    ["1", "cup", "parmessan cheese"], 
+    ["1", "cup", "parmessan cheese"],
 ]
 
 # Labels are discovered dynamically
@@ -33,3 +33,13 @@ steps = '''
 notes = '''
 I want to say some things about this
 '''
+
+# Alternative to ingredients is a dictionary dividing ingredients into
+# sections, has to appear at the bottom due to how TOML handles nested tables
+[ingredient_parts]
+"Dough" = [
+    ["3", "cups", "flour"],
+]
+"Topping" = [
+    ["1", "cup", "parmessan cheese"],
+]

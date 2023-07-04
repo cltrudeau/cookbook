@@ -63,8 +63,17 @@ class Command(BaseCommand):
                                 labels.append(label)
 
                         # Create Recipe
+                        ingredients = getattr(content, 'ingredients', '')
+                        ingredient_parts = getattr(content, 'ingredient_parts', '')
+
                         category = CategoryType[content.category]
-                        self._process_ingredients(content.ingredients)
+
+                        if ingredients:
+                            self._process_ingredients(ingredients)
+
+                        if ingredient_parts:
+                            for part in ingredient_parts.values():
+                                self._process_ingredients(part)
 
                         description = getattr(content, 'description', '')
                         serves = getattr(content, 'serves', None)
@@ -74,12 +83,13 @@ class Command(BaseCommand):
                         recipe = Recipe.objects.create(
                             slug=child.stem,
                             title=content.title,
-                            category=category, 
-                            serves=serves, 
+                            category=category,
+                            serves=serves,
                             cooktime=cooktime,
                             description=description,
-                            ingredients=content.ingredients, 
-                            steps=content.steps, 
+                            ingredients=ingredients,
+                            ingredient_parts=ingredient_parts,
+                            steps=content.steps,
                             notes=notes
                         )
 

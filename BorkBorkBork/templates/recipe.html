@@ -22,21 +22,36 @@
 
     <div class="d-flex flex-wrap align-content-end">
       {% for label in recipe.labels.all %}
-        <div> <a class="m-1 btn btn-sm btn-success" 
+        <div> <a class="m-1 btn btn-sm btn-success"
           href="{% url 'label' label.text %}">{{label.text}}</a> </div>
       {% endfor %}
     </div>
   </p>
 
   <h3>Ingredients</h3>
-  <table class="ingredient-box table">
-    {% for ingredient in recipe.ingredients %}
-      <tr>
-        <td> {{ingredient.0}} {{ingredient.1}} </td>
-        <td> {{ingredient.2}} </td>
-      </tr>
+  {% if recipe.ingredients %}
+    <table class="ingredient-box table">
+      {% for ingredient in recipe.ingredients %}
+        <tr>
+          <td> {{ingredient.0}} {{ingredient.1}} </td>
+          <td> {{ingredient.2}} </td>
+        </tr>
+      {% endfor %}
+    </table>
+  {% endif %}
+  {% if recipe.ingredient_parts %}
+    {% for name, stuff in recipe.ingredient_parts.items %}
+      <h4>{{ name }}</h4>
+      <table class="ingredient-box table">
+        {% for ingredient in stuff %}
+          <tr>
+            <td> {{ingredient.0}} {{ingredient.1}} </td>
+            <td> {{ingredient.2}} </td>
+          </tr>
+        {% endfor %}
+      </table>
     {% endfor %}
-  </table>
+  {% endif %}
 
   <h3>Steps</h3>
   <div class="steps-box">

@@ -1,0 +1,66 @@
+title = "Italian Cheesecake"
+category = "Desserts"
+serves = 50
+cooktime = 40
+
+# Do something to allow for segmented ingredients
+ingredient_parts = {
+    "Filling" = [
+        ["2", "containers", "ricotta (approx 475 grams)"],
+        ["4", "", "eggs"],
+        ["2", "cups", "sugar"],
+        ["2", "shots", "zambucca"],
+    ],
+    "Dough" = [
+        ["6", "cups", "flour (may require 7th cup if dough is wet)"],
+        ["6", "", "eggs"],
+        ["1", "cup", "sugar"],
+        ["1", "cup", "vegetable oil"],
+        ["2", "packets", "vanillin powder (0.5g per packet)"],
+        ["2", "packets", "baking powder with vanillin (16g per packet)"],
+    ],
+}
+
+labels = ["Italian", "Dessert"]
+steps = '''
+Large recipe, makes two pans
+
+**Filling**
+1. Drain ricotta overnight in a colander
+2. Add eggs, ricotta, sugar and zambucca to ricotta
+3. Blend with mixer until smooth and thick
+4. Cover with foil and put into fridge
+
+**Dough**
+1. Blend eggs, sugar and oil and set aside.
+2. Mix flour with vanillin and baking powder with vanillin
+3. Add liquid mixture
+4. Mix with dough hook
+5. Knead until dough is soft to the touch but firm
+6. Add more flour as needed to the dough
+7. Set dough aside for 10 minutes
+
+**Assemble Cake**
+1. Preheat oven to 350 degrees convection
+2. Cut dough – 2 halves for the crust and 1 for the lattices
+3. Cover dough when not in use.
+4. Roll one dough out to 1/16 inches on parchment paper
+5. Transfer parchment paper with dough to cake pan (9X13)
+6. Push paper and dough into corners and sides of pan so it fits neatly
+7. Add Ricotta filling to at least ¾ full but not so high there isn’t room for
+the lattice (or wait until rollout second dough)
+8. Put into fridge until rollout next cake
+9. Make the lattice (approximately ½ inch wide)
+10. Add lattice to the cake
+11. Bake until golden brown
+12. Check cake at half an hour mark
+13. Add egg wash and then sprinkles
+14. Swap pans and put back in for 10 minutes
+15. Ensure eggwash is fully cooked / dry before removing pans
+16. Let cakes cool to room temperature
+17. Add cakes to fridge.
+'''
+
+notes = '''
+The longer you keep cake in fridge the stronger it will be
+'''

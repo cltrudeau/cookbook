@@ -8,7 +8,8 @@ CATEGORIES = ['Appetizers', 'Mains', 'Sauces', 'Desserts', 'Drinks', ]
 CategoryType = models.IntegerChoices('CategoryType', ' '.join(CATEGORIES))
 
 MEASURES = ['tsp', 'Tbsp', 'cup', 'cups', 'can', 'ml', 'L', 'g', 'oz', '',
-    'lbs', 'pinch', 'clove', 'cloves', 'slice', 'slices', 'dash', ]
+    'lbs', 'pinch', 'clove', 'cloves', 'slice', 'slices', 'dash', 'packet',
+    'packets', 'container', 'containers', 'shot', 'shots']
 
 # ===========================================================================
 
@@ -40,6 +41,7 @@ class Recipe(TimeTrackModel):
     cooktime = models.PositiveSmallIntegerField(blank=True, null=True)
 
     ingredients = models.JSONField()
+    ingredient_parts = models.JSONField()
 
     steps = models.TextField()
     notes = models.TextField()

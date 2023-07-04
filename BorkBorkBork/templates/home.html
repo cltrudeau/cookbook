@@ -13,6 +13,11 @@
       </p>
 
       <div class="d-flex flex-wrap justify-content-center">
+        {% for category in categories %}
+          <div> <a class="m-1 btn btn-success"
+            href="{% url 'category' category %}">{{category}}</a> </div>
+
+        {% endfor %}
         {% for label in labels %}
           <div> <a class="m-1 btn btn-success"
             href="{% url 'label' label.text %}">{{label.text}}</a> </div>
