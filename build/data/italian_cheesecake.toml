@@ -3,25 +3,9 @@ category = "Desserts"
 serves = 50
 cooktime = 40
 
-# Do something to allow for segmented ingredients
-ingredient_parts = {
-    "Filling" = [
-        ["2", "containers", "ricotta (approx 475 grams)"],
-        ["4", "", "eggs"],
-        ["2", "cups", "sugar"],
-        ["2", "shots", "zambucca"],
-    ],
-    "Dough" = [
-        ["6", "cups", "flour (may require 7th cup if dough is wet)"],
-        ["6", "", "eggs"],
-        ["1", "cup", "sugar"],
-        ["1", "cup", "vegetable oil"],
-        ["2", "packets", "vanillin powder (0.5g per packet)"],
-        ["2", "packets", "baking powder with vanillin (16g per packet)"],
-    ],
-}
+# Note: this recipe uses ingredient parts, see bottom of file
 
-labels = ["Italian", "Dessert"]
+labels = ["Italian", ]
 steps = '''
 Large recipe, makes two pans
 
@@ -64,3 +48,20 @@ the lattice (or wait until rollout second dough)
 notes = '''
 The longer you keep cake in fridge the stronger it will be
 '''
+
+[ingredient_parts]
+    "Filling" = [
+        ["2", "containers", "ricotta (approx 475 grams)"],
+        ["4", "", "eggs"],
+        ["2", "cups", "sugar"],
+        ["2", "shots", "zambucca"],
+    ]
+    "Dough" = [
+        ["6", "cups", "flour (may require 7th cup if dough is wet)"],
+        ["6", "", "eggs"],
+        ["1", "cup", "sugar"],
+        ["1", "cup", "vegetable oil"],
+        ["2", "packets", "vanillin powder (0.5g per packet)"],
+        ["2", "packets", "baking powder with vanillin (16g per packet)"],
+    ]
+

@@ -4,7 +4,7 @@ cooktime = 10
 ingredients = [
     ["2", "Tbsp", "butter"],
     ["2", "Tbsp", "flour"],
-    ["1", "Cup", "milk"],
+    ["1", "cup", "milk"],
 ]
 labels = ["French", ]
 steps = '''
